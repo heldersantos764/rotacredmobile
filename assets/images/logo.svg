@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1080"
+   height="260"
+   viewBox="0 0 285.74999 68.791668"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   sodipodi:docname="logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.48693448"
+     inkscape:cx="440.51101"
+     inkscape:cy="294.70084"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g10"
+       transform="translate(-0.82103663,2.3496118)"
+       style="fill:#673ab7;fill-opacity:1">
+      <path
+         id="text1"
+         style="font-size:148.201px;writing-mode:lr-tb;direction:ltr;fill:#673ab7;stroke-width:4.5641;fill-opacity:1"
+         d="m 38.228695,6.203675 c -14.507735,-4.2e-5 -26.268601,11.57007 -26.268612,25.842548 0,6.802819 2.672067,12.991607 7.039772,17.606305 3.3e-5,3.3e-5 -3.2e-5,1.61e-4 0,1.94e-4 l -0.04011,0.199943 h 0.231464 c 4.785546,4.950218 11.545177,8.036124 19.037484,8.036103 6.813308,-4.3e-5 13.308951,-2.60136 18.164153,-7.173838 l 5.202388,2.826067 -0.54696,-21.075016 -12.307473,7.538227 -0.92318,-1.623485 c 0.586866,-0.204513 1.154632,-0.433423 1.703511,-0.686753 2.84801,-1.314477 5.038908,-3.158487 6.572452,-5.53183 1.570059,-2.409855 2.354928,-5.221328 2.354928,-8.434468 0,-3.833861 -1.350941,-6.827936 -4.052897,-8.982199 -2.665449,-2.154265 -6.462686,-3.231318 -11.391938,-3.231318 H 30.204251 c 2.635678,-1.282968 5.465403,-2.061263 8.241774,-2.220294 9.91591,-0.56797 15.187032,2.428464 21.169549,7.747534 C 54.685862,10.240882 46.71907,6.203739 38.228695,6.203675 Z m -12.104463,7.826787 -5.191503,25.957704 c -1.903243,-3.061928 -3.000274,-6.661625 -3.000242,-10.513449 1.2e-5,-6.331369 3.419786,-11.798477 8.191745,-15.444255 z m 9.647559,6.027592 h 5.698355 c 1.898672,0 3.377306,0.38348 4.436181,1.150257 1.058875,0.766766 1.588354,1.95342 1.588354,3.559983 0,2.081245 -0.657174,3.687776 -1.97164,4.819673 -1.314467,1.131904 -3.176591,1.697978 -5.586437,1.697978 H 33.497446 Z M 31.834042,39.66561 h 5.456771 l 5.361859,9.561229 c -1.373805,0.283184 -2.782966,0.428938 -4.206648,0.428938 -2.93979,0 -5.735034,-0.608528 -8.262977,-1.704285 z" />
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:800;font-stretch:normal;font-size:38.4588px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Ultra-Bold Italic';letter-spacing:-2.43057px;writing-mode:lr-tb;direction:ltr;fill:#673ab7;stroke-width:3.20491;fill-opacity:1"
+         x="66.96199"
+         y="45.837727"
+         id="text7"><tspan
+           sodipodi:role="line"
+           id="tspan7"
+           style="letter-spacing:-2.43057px;stroke-width:3.20491;fill:#673ab7;fill-opacity:1"
+           x="66.96199"
+           y="45.837727">ROTA<tspan
+   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';letter-spacing:-2.43057px;stroke-width:3.20491;fill:#673ab7;fill-opacity:1"
+   id="tspan8">CRED</tspan></tspan></text>
+    </g>
+  </g>
+</svg>
